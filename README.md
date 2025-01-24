@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full-Stack Developer | MERN Enthusiast | Next.js Explorer<br><br>Hi there! 👋 I'm a passionate MERN stack developer diving deep into Next.js and mastering Data Structures & Algorithms. I thrive on turning ideas<br> into full-stack applications and solving complex problems with clean code.<br><br>🔨 Building Tomorrow | 🌱 Learning Today<br><br>"Coffee + Code = Infinite Possibilities" ☕
+🚀 Full-Stack Developer | MERN Enthusiast | Next.js Explorer<br><br>Hi there! 👋 I'm a passionate MERN stack developer diving deep into Next.js and mastering Data Structures & Algorithms. I thrive on turning ideas into full-stack applications and solving complex problems with clean code.<br><br>🔨 Building Tomorrow | 🌱 Learning Today<br><br>"Coffee + Code = Infinite Possibilities" ☕
 
 
 ## 🌐 Socials:
